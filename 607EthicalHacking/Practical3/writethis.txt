@@ -1,0 +1,15 @@
+practical 3
+
+aim : use crypt tool to encrypt and decrypt pasword using RC4 and AES algorithm
+
+write steps atleast 5 
+
+Steps 
+
+i) Download and install CryptTool CT1 v1.4.42
+ii) Open CryptTool
+iii) Create a new file and enter plain text to be encrypted 
+vi) Go to "Encrypt/Decrypt" tab and select a encryption algorithm
+v) You can select Key size and key before encrypting
+vi) After encrypting select the encrypted tab and go to "Encrypt/Decrypt" and select the same algorithm and remember the key size and your key.
+vii) Done.
