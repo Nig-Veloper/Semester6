@@ -1,0 +1,14 @@
+Aim : Implement a wireless sensor network simulation 
+
+p7 in drive p4 in irl
+
+Theory :
+write steps 
+
+
+Practical :
+use different wirless accesspoint to demonstrate network connection 
+use different wirless adapters also 
+
+
+
