@@ -1,0 +1,1 @@
+saps chrome -ArgumentList "--start-fullscreen https://www.youtube.com/watch?v=kLaaJ_aeoyM"
