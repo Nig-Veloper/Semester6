@@ -1,0 +1,1 @@
+aim : using hashcalc and md5calculator demostrate how hash values change access a file is modified
