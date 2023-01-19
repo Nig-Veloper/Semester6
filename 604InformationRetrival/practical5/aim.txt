@@ -1,0 +1,2 @@
+Practical 7
+Pre Processing a text document for removing stop words
