@@ -1,0 +1,6 @@
+Install CouchDB
+Install R/RStudio
+
+Run Commands 
+
+Finish
