@@ -1,0 +1,4 @@
+Write 
+"Writing part from 'writing-part'"
+
+and print this doc
