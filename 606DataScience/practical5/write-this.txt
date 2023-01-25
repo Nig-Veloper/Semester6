@@ -1,0 +1,4 @@
+Aim : Practical of analysis of variance 
+
+Theory :
+What is anova ?
