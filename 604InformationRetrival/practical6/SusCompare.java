@@ -23,7 +23,7 @@ class SusCompare{
             else {
                 return pos;
             }
-        }
+        } 
     }
     public static void main(String[] args) {
         Path file1 = Paths.get("file1.txt");
