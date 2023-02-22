@@ -1,0 +1,22 @@
+Aim : Practical on logistic regression 
+
+Transcribe :
+
+```
+Some student i dont know whos machine is goinng to work u will face a problem cause i will install a packege ggpolt jis jis ke machine mai ggplot chalega note down your node number 
+
+graph part may be pending
+
+Logistic regression depend on all 
+dependent variable 
+just have a look today we are going to use iris data set 
+visible hai yeh last, kartik visible hai ?
+"no" 
+visble hai, still no ?
+"yes miss dikha"
+please keep quite aur abhi typing krna start mat karo
+...
+
+```
+
+
